@@ -1,9 +1,12 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
-Django @ file:///tmp/build/80754af9/django_1625585912945/work
-djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1639677796037/work
-mysqlclient @ file:///Users/builder/ci_310/mysqlclient_1642534389141/work
-psycopg2 @ file:///Users/builder/ci_310/psycopg2_1642535040511/work
-pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1caf090c-01b6-4973-adac-d2eb884a674e7zonb9eb/croots/recipe/pytz_1654762641285/work
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+asgiref==3.4.1
+certifi==2022.6.15
+Django==3.2.5
+djangorestframework==3.13.1
+mysqlclient==2.0.3
+pip==21.2.4
+psycopg2==2.8.6
+pytz==2022.1
+setuptools==61.2.0
+sqlparse==0.4.1
+typing_extensions==4.1.1
+wheel==0.37.1
